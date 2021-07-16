@@ -1,0 +1,17 @@
+export declare type AuthConfig = {};
+export declare type SignUpRequest = {};
+export declare type SignUpResponse = {};
+export declare type SignInRequest = {};
+export declare type SignInResponse = {};
+export declare type SignOutRequest = {};
+export declare type SignOutResponse = {};
+export declare type SendResetPasswordEmailRequest = {};
+export declare type SendResetPasswordEmailResponse = {};
+export declare type UpdatePasswordRequest = {};
+export declare type UpdatePasswordResponse = {};
+export declare type RenewTokenRequest = {};
+export declare type RenewTokenResponse = {};
+export declare type VerifyAccountRequest = {};
+export declare type VerifyAccountResponse = {};
+export declare type SendVerificationEmailRequest = {};
+export declare type SendVerificationEmailResponse = {};

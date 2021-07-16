@@ -1,0 +1,16 @@
+import { AuthConfig, SignInRequest, SignInResponse, SignUpRequest, SignUpResponse, SignOutRequest, SignOutResponse, SendResetPasswordEmailRequest, SendResetPasswordEmailResponse, RenewTokenRequest, RenewTokenResponse, SendVerificationEmailRequest, SendVerificationEmailResponse, VerifyAccountRequest, VerifyAccountResponse } from '../../core/types';
+export declare type CognitoAuthConfig = AuthConfig;
+export declare type CognitoSignInRequest = SignInRequest;
+export declare type CognitoSignInResponse = SignInResponse;
+export declare type CognitoSignUpRequest = SignUpRequest;
+export declare type CognitoSignUpResponse = SignUpResponse;
+export declare type CognitoSignOutRequest = SignOutRequest;
+export declare type CognitoSignOutResponse = SignOutResponse;
+export declare type CognitoResetPasswordRequest = SendResetPasswordEmailRequest;
+export declare type CognitoResetPasswordResponse = SendResetPasswordEmailResponse;
+export declare type CognitoRenewTokenRequest = RenewTokenRequest;
+export declare type CognitoRenewTokenResponse = RenewTokenResponse;
+export declare type CognitoVerifyAccountRequest = VerifyAccountRequest;
+export declare type CognitoVerifyAccountResponse = VerifyAccountResponse;
+export declare type CognitoSendVerificationEmailRequest = SendVerificationEmailRequest;
+export declare type CognitoSendVerificationEmailResponse = SendVerificationEmailResponse;
